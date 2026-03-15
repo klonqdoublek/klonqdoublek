@@ -1,36 +1,33 @@
-# Hey, I'm klonqdoublek! 👋
+# Hey, I'm Khaoklong! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer dedicated to building meaningful software and contributing to the open-source community.
+Welcome to my GitHub profile! I'm a Designer and product thinker exploring the intersection of design systems, creative coding, and service design.
 
-## 🚀 About Me
+## 🎨 About Me
+I'm a designer-turned-coder interested in how design culture and technology collaborate. Currently diving into design systems, agentic AI architectures, and building tools that bridge creative thinking with code. My work lives at the intersection of design research, product strategy, and experimental development.
 
-I'm interested in creating innovative solutions and collaborating with fellow developers. Whether it's building new features, fixing bugs, or learning new technologies, I'm always excited about the next challenge.
+## 💭 What I'm Exploring Now
+- 🎯 **Design Systems & Patterns** — Understanding how to codify design at scale
+- 🤖 **Agentic AI & Service Design** — Building intelligent systems that enhance human experiences
+- 🛠️ **Design-to-Code Tools** — Prototyping and tools that make design more programmatic
+- 🗣️ **Conversational Interfaces** — Exploring UI/UX for dialogue-based systems
+- 📚 **Creative Coding** — Learning to code as a design thinking tool (work in progress!)
 
-## 💻 What I Do
+## 🌟 Current Focus
+Right now I'm working on my thesis about designing a digital dormitory service system using agentic AI (Senior Project).
 
-- 🔧 Development and software engineering
-- 📚 Learning and exploring new technologies
-- 🤝 Collaborating on interesting projects
-- 🎯 Problem-solving and optimization
+## 🎬 Beyond Code
+- ☕️ I'm a coffee lover!
+- 🍿 Movie solo-goer!
 
-## 🌟 Interests
+## 📖 Learning Journey
+I'm actively learning to code — not to become a full-time engineer, but to understand how design thinking and development intersect. Every project here reflects that exploratory mindset.
 
-- Clean code and best practices
-- Open-source development
-- Continuous learning and growth
-- Building community
-
-## 📫 Get In Touch
 
 Feel free to:
-- Check out my projects and repositories below
-- Open issues or discussions
-- Reach out with collaboration ideas
-
-## 📈 My GitHub Stats
-
-I'm always working on interesting projects. Explore my repositories to see what I've been up to!
+- Explore my projects and experiments
+- Suggest ideas or start discussions
+- Reach out about collaboration on design-forward work
 
 ---
 
-**Thanks for visiting my profile!** Don't forget to ⭐ any projects you find interesting.
+**Thanks for stopping by!** I'm always curious about intersections between design, technology, and culture. ✨
